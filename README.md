@@ -6,7 +6,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 💻 Working as a frontend developer at **[intive](https://intive.com)**.
 - ✍ Writing tech blog posts and tutorials at my **[website](https://danielagiorgio.com)**.
-- 🛠 Messing around with stuff on the web. Trying out [Cypress](https://https://www.cypress.io/) in my spare time.
+- 🛠 Messing around with stuff on the web. Trying out **[Cypress](https://www.cypress.io/)** in my spare time.
 
 <details>
   <summary>Some other facts about me</summary>
